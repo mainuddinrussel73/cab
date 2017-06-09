@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_name.png",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_load.png",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_load.png"
+    },
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_search.png",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_search.png"
+    },
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_deact.png",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_deact.png"
+    },
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_dots.png",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\drawable-xhdpi\\ic_dots.png"
+    },
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_next_name.png",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\drawable-xhdpi\\ic_next_name.png"
+    },
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_close.png",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_close.png"
+    },
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_feedback.png",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_feedback.png"
+    }
+]

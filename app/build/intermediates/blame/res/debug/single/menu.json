@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_recycle.xml",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\menu\\menu_recycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navigation_bar_drawer.xml",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\menu\\activity_navigation_bar_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_album.xml",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\menu\\menu_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navication_bar2_drawer.xml",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\menu\\activity_navication_bar2_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navication_bar2.xml",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\menu\\navication_bar2.xml"
+    },
+    {
+        "merged": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_bar.xml",
+        "source": "C:\\Users\\mainuddin\\AndroidStudioProjects\\iCab1.2\\app\\src\\main\\res\\menu\\navigation_bar.xml"
+    }
+]
